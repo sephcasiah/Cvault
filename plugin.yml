@@ -1,0 +1,10 @@
+main: Beckstation.XVaults.XVaults
+name: XVaults
+version: 1.1.0
+author: Beckstation
+description: Adding Personal Player Vaults to MC.
+api-version: 1.18
+
+commands:
+  vault:
+  cvault:
